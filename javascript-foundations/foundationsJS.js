@@ -1,5 +1,4 @@
-// alert('This is the src file, right hee-yuh');
-
+// Here's another comment
 /*
   // Dynamically generate content
   document.body.onload = addElement;
