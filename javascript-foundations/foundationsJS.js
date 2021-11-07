@@ -1,5 +1,5 @@
-// I like making comments.
-// These are @11:50 am on Sunday.
+// I decided I don't like making comments.
+// These are @11:56 am on Sunday.
 /*
   // Dynamically generate content
   document.body.onload = addElement;
