@@ -1,4 +1,5 @@
-// Here's another comment
+// I like making comments.
+// These are @11:50 am on Sunday.
 /*
   // Dynamically generate content
   document.body.onload = addElement;
